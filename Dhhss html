@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DHHS Program - Empowering Our Economy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1, h2, h3 {
+            color: #0056b3;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li:before {
+            content: "✓ ";
+            color: #008000;
+            font-weight: bold;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        .how-to-apply {
+            background-color: #e9f7ef;
+            padding: 20px;
+            border-radius: 5px;
+            margin-top: 30px;
+            text-align: center;
+        }
+        .how-to-apply a {
+            color: #0056b3;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .how-to-apply a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Welcome to the DHHS Program</h1>
+        </header>
+
+        <section id="about-us">
+            <h2>About the Program</h2>
+            <p>This is a new program established by the state and federal government to improve and create a significant impact in the country economy.</p>
+
+            <h3>Who is Eligible to Apply?</h3>
+            <ul>
+                <li>Old</li>
+                <li>Young (16+)</li>
+                <li>Full workers</li>
+                <li>Part-time workers</li>
+                <li>Unemployed</li>
+                <li>Retired</li>
+                <li>Divorced</li>
+                <li>Single</li>
+                <li>Business owners</li>
+                <li>Widow or widower</li>
+            </ul>
+        </section>
+
+        <section id="dhhs-vs-loan">
+            <h2>Difference Between DHHS and Loan</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>DHHS</th>
+                        <th>LOAN</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>No need of higher credit score</td>
+                        <td>Higher credit score needed</td>
+                    </tr>
+                    <tr>
+                        <td>Not need to pay it back because it's free</td>
+                        <td>Need to pay it back with interest</td>
+                    </tr>
+                    <tr>
+                        <td>Only the taxes and delivery fees need</td>
+                        <td>Down payment need</td>
+                    </tr>
+                    <tr>
+                        <td>You can get the money anytime and anywhere</td>
+                        <td>You need proof of resident</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+
+        <section id="how-to-apply" class="how-to-apply">
+            <h2>How to Apply</h2>
+            <p>To apply, just message this link on your Facebook account:</p>
+            <p><a href="YOUR_FACEBOOK_LINK_HERE" target="_blank" rel="noopener noreferrer">Click here to message us on Facebook</a></p>
+            <p><strong>Please replace "YOUR_FACEBOOK_LINK_HERE" with your actual Facebook profile or page link.</strong></p>
+        </section>
+
+        <footer>
+            <p style="text-align: center; margin-top: 40px; font-size: 0.9em; color: #777;">&copy; 2025 DHHS Program. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
